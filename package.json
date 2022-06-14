@@ -1,22 +1,22 @@
 {
   "name": "service-experiment",
   "version": "1.0.0",
-  "description": "a newbie experiment about building a REST service application on Node.js without any specific framework except, maybe, RxJs",
+  "description": "an example project using Starty framework for the demonstration purpose",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/spacesoldier/nodeServiceExperiment.git"
+    "url": "git+https://github.com/spacesoldier/messageBridgeServicePrototype.git"
   },
   "keywords": [],
   "author": "",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/spacesoldier/nodeServiceExperiment/issues"
+    "url": "https://github.com/spacesoldier/messageBridgeServicePrototype/issues"
   },
-  "homepage": "https://github.com/spacesoldier/nodeServiceExperiment#readme",
+  "homepage": "https://github.com/spacesoldier/messageBridgeServicePrototype#readme",
   "dependencies": {
     "starty": "^0.1.1"
   }
